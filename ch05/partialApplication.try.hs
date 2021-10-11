@@ -1,0 +1,1 @@
+H :: (Num a, Num b) => a -> b -> b
