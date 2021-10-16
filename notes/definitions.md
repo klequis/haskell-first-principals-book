@@ -102,6 +102,10 @@
 
 ---
 
+- _Partial functions_: I got this from [here](http://learn.hfm.io/fundamentals.html). It says that partial functions (not partial application) are functions that do not have a patter match for all possible cases. An example is `head`. `head` does not have a case for `[]` and will throw an exception. Such functions should return an error using `error`.
+
+---
+
 - _Polymorphism_ means being able to write code in terms of values
   that may be one of several types or of any type. There are two types in Haskell and, as I understand them currently
   - Parametric is unconstrained such as `id :: a -> a`
