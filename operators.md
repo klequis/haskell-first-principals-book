@@ -6,6 +6,8 @@
 | !!       | Indexing function. Zero based.          |
 | &&       | Boolean conjunction, aka "and".         |
 | \|\|     | Boolean disjunction, aka "or"           |
+| =>       | class constraint                        |
+| ->       | type constructor for functions          |
 
 Notes & Questions
 (1) Can `++` do more than concat strings?

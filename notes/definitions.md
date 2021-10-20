@@ -1,3 +1,9 @@
+# THIS DOCUMENTATION HAS BEEN MOVE TO GITHUB
+
+# https://github.com/klequis/haskell-notebook
+
+---
+
 - _Application_ (1 of 2) is how one evaluates or reduces lambdas, binding the parameter to the concrete argument. The argument is what specific term the lambda is applied to. Computations are performed in lambda calculus by applying lambdas to arguments until you run out of applications to perform:
 
   ```haskell
